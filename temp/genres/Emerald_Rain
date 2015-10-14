@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<toptags artist="Emerald Rain">
+<tag>
+    <name>hard rock</name> 
+    <count>100</count>
+    <url>http://www.last.fm/tag/hard%20rock</url>
+</tag>
+<tag>
+    <name>melodic metal</name> 
+    <count>57</count>
+    <url>http://www.last.fm/tag/melodic%20metal</url>
+</tag>
+<tag>
+    <name>melodic rock</name> 
+    <count>55</count>
+    <url>http://www.last.fm/tag/melodic%20rock</url>
+</tag>
+<tag>
+    <name>rock</name> 
+    <count>47</count>
+    <url>http://www.last.fm/tag/rock</url>
+</tag>
+<tag>
+    <name>Canadian</name> 
+    <count>20</count>
+    <url>http://www.last.fm/tag/canadian</url>
+</tag>
+</toptags>

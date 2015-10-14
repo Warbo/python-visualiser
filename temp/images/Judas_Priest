@@ -1,0 +1,4 @@
+<br />
+<b>Warning</b>:  fwrite(): supplied argument is not a valid stream resource in <b>/usr/local/apache2/htdocs/include/userstore/MogileFS.php</b> on line <b>95</b><br />
+<br />
+<b>Warning</b>:  fgets(): supplied argument is not a valid stream resource in <b>/usr/local/apache2/htdocs/include/userstore/MogileFS.php</b> on line <b>96</b><br />

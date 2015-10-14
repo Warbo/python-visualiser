@@ -1,0 +1,11 @@
+--17:03:18--  http://ws.audioscrobbler.com/1.0/artist/Wolfchant/similar.txt
+           => `Wolfchant'
+Resolving ws.audioscrobbler.com... 87.117.229.100
+Connecting to ws.audioscrobbler.com|87.117.229.100|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/plain]
+
+    0K ....                                                     49.68 KB/s
+
+17:03:24 (49.68 KB/s) - `Wolfchant' saved [4258]
+

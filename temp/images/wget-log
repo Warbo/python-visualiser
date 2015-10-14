@@ -1,0 +1,12 @@
+--19:35:21--  http://userserve-ak.last.fm/serve/160/179373.jpg
+           => `Virgin_Steele'
+Resolving userserve-ak.last.fm... 213.123.84.207, 213.123.84.221
+Connecting to userserve-ak.last.fm|213.123.84.207|:80... failed: Connection timed out.
+Connecting to userserve-ak.last.fm|213.123.84.221|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 5,358 (5.2K) [image/jpeg]
+
+    0K .....                                                 100%  166.69 KB/s
+
+19:38:30 (166.69 KB/s) - `Virgin_Steele' saved [5358/5358]
+

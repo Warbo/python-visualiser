@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<toptags artist="Metallica">
+<tag>
+    <name>metal</name> 
+    <count>100</count>
+    <url>http://www.last.fm/tag/metal</url>
+</tag>
+<tag>
+    <name>thrash metal</name> 
+    <count>84</count>
+    <url>http://www.last.fm/tag/thrash%20metal</url>
+</tag>
+<tag>
+    <name>heavy metal</name> 
+    <count>61</count>
+    <url>http://www.last.fm/tag/heavy%20metal</url>
+</tag>
+<tag>
+    <name>rock</name> 
+    <count>39</count>
+    <url>http://www.last.fm/tag/rock</url>
+</tag>
+<tag>
+    <name>hard rock</name> 
+    <count>32</count>
+    <url>http://www.last.fm/tag/hard%20rock</url>
+</tag>
+<tag>
+    <name>seen live</name> 
+    <count>20</count>
+    <url>http://www.last.fm/tag/seen%20live</url>
+</tag>
+<tag>
+    <name>classic rock</name> 
+    <count>12</count>
+    <url>http://www.last.fm/tag/classic%20rock</url>
+</tag>
+<tag>
+    <name>speed metal</name> 
+    <count>8</count>
+    <url>http://www.last.fm/tag/speed%20metal</url>
+</tag>
+<tag>
+    <name>american</name> 
+    <count>6</count>
+    <url>http://www.last.fm/tag/american</url>
+</tag>
+<tag>
+    <name>thrash</name> 
+    <count>5</count>
+    <url>http://www.last.fm/tag/thrash</url>
+</tag>
+<tag>
+    <name>80s</name> 
+    <count>5</count>
+    <url>http://www.last.fm/tag/80s</url>
+</tag>
+<tag>
+    <name>alternative</name> 
+    <count>4</count>
+    <url>http://www.last.fm/tag/alternative</url>
+</tag>
+<tag>
+    <name>90s</name> 
+    <count>3</count>
+    <url>http://www.last.fm/tag/90s</url>
+</tag>
+<tag>
+    <name>alternative rock</name> 
+    <count>2</count>
+    <url>http://www.last.fm/tag/alternative%20rock</url>
+</tag>
+<tag>
+    <name>punk</name> 
+    <count>2</count>
+    <url>http://www.last.fm/tag/punk</url>
+</tag>
+<tag>
+    <name>Progressive metal</name> 
+    <count>2</count>
+    <url>http://www.last.fm/tag/progressive%20metal</url>
+</tag>
+<tag>
+    <name>metallica</name> 
+    <count>2</count>
+    <url>http://www.last.fm/tag/metallica</url>
+</tag>
+<tag>
+    <name>Grunge</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/grunge</url>
+</tag>
+<tag>
+    <name>indie</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/indie</url>
+</tag>
+<tag>
+    <name>hardcore</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/hardcore</url>
+</tag>
+<tag>
+    <name>Power metal</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/power%20metal</url>
+</tag>
+<tag>
+    <name>death metal</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/death%20metal</url>
+</tag>
+<tag>
+    <name>Progressive rock</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/progressive%20rock</url>
+</tag>
+<tag>
+    <name>emo</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/emo</url>
+</tag>
+<tag>
+    <name>California</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/california</url>
+</tag>
+<tag>
+    <name>trash metal</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/trash%20metal</url>
+</tag>
+<tag>
+    <name>punk rock</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/punk%20rock</url>
+</tag>
+<tag>
+    <name>heavy</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/heavy</url>
+</tag>
+<tag>
+    <name>Nu Metal</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/nu%20metal</url>
+</tag>
+<tag>
+    <name>pop</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/pop</url>
+</tag>
+<tag>
+    <name>USA</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/usa</url>
+</tag>
+<tag>
+    <name>00s</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/00s</url>
+</tag>
+<tag>
+    <name>Gothic Metal</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/gothic%20metal</url>
+</tag>
+<tag>
+    <name>Melodic Death Metal</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/melodic%20death%20metal</url>
+</tag>
+<tag>
+    <name>electronic</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/electronic</url>
+</tag>
+<tag>
+    <name>blues</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/blues</url>
+</tag>
+<tag>
+    <name>indie rock</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/indie%20rock</url>
+</tag>
+<tag>
+    <name>black metal</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/black%20metal</url>
+</tag>
+<tag>
+    <name>metalcore</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/metalcore</url>
+</tag>
+<tag>
+    <name>industrial</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/industrial</url>
+</tag>
+<tag>
+    <name>doom metal</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/doom%20metal</url>
+</tag>
+<tag>
+    <name>favorites</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/favorites</url>
+</tag>
+<tag>
+    <name>guitar</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/guitar</url>
+</tag>
+<tag>
+    <name>instrumental</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/instrumental</url>
+</tag>
+<tag>
+    <name>Stoner Rock</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/stoner%20rock</url>
+</tag>
+<tag>
+    <name>jazz</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/jazz</url>
+</tag>
+<tag>
+    <name>classic metal</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/classic%20metal</url>
+</tag>
+<tag>
+    <name>folk</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/folk</url>
+</tag>
+<tag>
+    <name>Progressive</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/progressive</url>
+</tag>
+<tag>
+    <name>electronica</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/electronica</url>
+</tag>
+<tag>
+    <name>alternative metal</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/alternative%20metal</url>
+</tag>
+<tag>
+    <name>ska</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/ska</url>
+</tag>
+<tag>
+    <name>new wave</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/new%20wave</url>
+</tag>
+<tag>
+    <name>Hip-Hop</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/hip-hop</url>
+</tag>
+<tag>
+    <name>ambient</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/ambient</url>
+</tag>
+<tag>
+    <name>rap</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/rap</url>
+</tag>
+<tag>
+    <name>Classical</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/classical</url>
+</tag>
+<tag>
+    <name>oldies</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/oldies</url>
+</tag>
+<tag>
+    <name>female vocalists</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/female%20vocalists</url>
+</tag>
+<tag>
+    <name>symphonic metal</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/symphonic%20metal</url>
+</tag>
+<tag>
+    <name>classic</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/classic</url>
+</tag>
+<tag>
+    <name>hair metal</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/hair%20metal</url>
+</tag>
+<tag>
+    <name>funk</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/funk</url>
+</tag>
+<tag>
+    <name>acoustic</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/acoustic</url>
+</tag>
+<tag>
+    <name>psychedelic</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/psychedelic</url>
+</tag>
+<tag>
+    <name>Soundtrack</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/soundtrack</url>
+</tag>
+<tag>
+    <name>melodic metal</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/melodic%20metal</url>
+</tag>
+<tag>
+    <name>singer-songwriter</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/singer-songwriter</url>
+</tag>
+<tag>
+    <name>grindcore</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/grindcore</url>
+</tag>
+<tag>
+    <name>male vocalists</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/male%20vocalists</url>
+</tag>
+<tag>
+    <name>Gothic</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/gothic</url>
+</tag>
+<tag>
+    <name>britpop</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/britpop</url>
+</tag>
+<tag>
+    <name>chillout</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/chillout</url>
+</tag>
+<tag>
+    <name>los angeles</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/los%20angeles</url>
+</tag>
+<tag>
+    <name>hip hop</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/hip%20hop</url>
+</tag>
+<tag>
+    <name>techno</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/techno</url>
+</tag>
+<tag>
+    <name>Southern Rock</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/southern%20rock</url>
+</tag>
+<tag>
+    <name>ska punk</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/ska%20punk</url>
+</tag>
+<tag>
+    <name>overrated</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/overrated</url>
+</tag>
+<tag>
+    <name>finnish</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/finnish</url>
+</tag>
+<tag>
+    <name>screamo</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/screamo</url>
+</tag>
+<tag>
+    <name>angry</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/angry</url>
+</tag>
+<tag>
+    <name>80s metal</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/80s%20metal</url>
+</tag>
+<tag>
+    <name>japanese</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/japanese</url>
+</tag>
+<tag>
+    <name>Punk-Rock</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/punk-rock</url>
+</tag>
+<tag>
+    <name>german</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/german</url>
+</tag>
+<tag>
+    <name>Brutal Death Metal</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/brutal%20death%20metal</url>
+</tag>
+<tag>
+    <name>Favorite</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/favorite</url>
+</tag>
+<tag>
+    <name>Favorite Bands</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/favorite%20bands</url>
+</tag>
+<tag>
+    <name>Favorite Artists</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/favorite%20artists</url>
+</tag>
+<tag>
+    <name>post-punk</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/post-punk</url>
+</tag>
+<tag>
+    <name>trance</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/trance</url>
+</tag>
+<tag>
+    <name>reggae</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/reggae</url>
+</tag>
+<tag>
+    <name>viking metal</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/viking%20metal</url>
+</tag>
+<tag>
+    <name>Favourites</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/favourites</url>
+</tag>
+<tag>
+    <name>dance</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/dance</url>
+</tag>
+<tag>
+    <name>aggressive</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/aggressive</url>
+</tag>
+<tag>
+    <name>dark</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/dark</url>
+</tag>
+<tag>
+    <name>Acoustic Rock</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/acoustic%20rock</url>
+</tag>
+<tag>
+    <name>latin</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/latin</url>
+</tag>
+</toptags>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<toptags artist="Supreme Majesty">
+<tag>
+    <name>Power metal</name> 
+    <count>100</count>
+    <url>http://www.last.fm/tag/power%20metal</url>
+</tag>
+<tag>
+    <name>metal</name> 
+    <count>37</count>
+    <url>http://www.last.fm/tag/metal</url>
+</tag>
+<tag>
+    <name>symphonic metal</name> 
+    <count>21</count>
+    <url>http://www.last.fm/tag/symphonic%20metal</url>
+</tag>
+<tag>
+    <name>melodic metal</name> 
+    <count>13</count>
+    <url>http://www.last.fm/tag/melodic%20metal</url>
+</tag>
+<tag>
+    <name>Swedish Metal</name> 
+    <count>12</count>
+    <url>http://www.last.fm/tag/swedish%20metal</url>
+</tag>
+<tag>
+    <name>speed metal</name> 
+    <count>7</count>
+    <url>http://www.last.fm/tag/speed%20metal</url>
+</tag>
+<tag>
+    <name>heavy metal</name> 
+    <count>6</count>
+    <url>http://www.last.fm/tag/heavy%20metal</url>
+</tag>
+</toptags>
